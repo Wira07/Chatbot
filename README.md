@@ -28,4 +28,10 @@ Anda dapat menyesuaikan layout ini sesuai dengan kebutuhan aplikasi Anda. Ubah w
 
 File-file dalam repositori ini disediakan di bawah lisensi MIT. Silakan lihat file LICENSE untuk detailnya.
 
-Jangan ragu untuk berkontribusi atau memberikan saran untuk perbaikan! Terima kasih telah menggunakan layout ini. 😊✨
+## Kontak 📧
+
+Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya:
+
+- Email: wiralodrasaputra07@gmail.com
+- Situs Web: [smartprogramming216.blogspot.com](https://smartprogramming216.blogspot.com/)
+- LinkedIn: [Wira Sukma Saputra](https://www.linkedin.com/in/wira-sukma-saputra/)
